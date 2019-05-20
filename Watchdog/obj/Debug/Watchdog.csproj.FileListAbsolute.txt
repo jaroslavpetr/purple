@@ -1,0 +1,16 @@
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\Watchdog.exe.config
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\Watchdog.exe
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\Watchdog.pdb
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\NLog.dll
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\ServerCore.dll
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\MetaQuotes.MT5ManagerAPI64.dll
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\MetaQuotes.MT5CommonAPI64.dll
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\Newtonsoft.Json.dll
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\ServerCore.pdb
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\NLog.xml
+C:\projekty\PurpleMTServer1\Watchdog\bin\Debug\Newtonsoft.Json.xml
+C:\projekty\PurpleMTServer1\Watchdog\obj\Debug\Watchdog.csprojAssemblyReference.cache
+C:\projekty\PurpleMTServer1\Watchdog\obj\Debug\Watchdog.csproj.CoreCompileInputs.cache
+C:\projekty\PurpleMTServer1\Watchdog\obj\Debug\Watchdog.csproj.CopyComplete
+C:\projekty\PurpleMTServer1\Watchdog\obj\Debug\Watchdog.exe
+C:\projekty\PurpleMTServer1\Watchdog\obj\Debug\Watchdog.pdb

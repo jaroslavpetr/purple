@@ -1,0 +1,11 @@
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\ServerCore.dll
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\ServerCore.pdb
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\MetaQuotes.MT5CommonAPI64.dll
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\MetaQuotes.MT5ManagerAPI64.dll
+C:\projekty\PurpleMTServer1\ServerCore\obj\Debug\ServerCore.csproj.CoreCompileInputs.cache
+C:\projekty\PurpleMTServer1\ServerCore\obj\Debug\ServerCore.csproj.CopyComplete
+C:\projekty\PurpleMTServer1\ServerCore\obj\Debug\ServerCore.dll
+C:\projekty\PurpleMTServer1\ServerCore\obj\Debug\ServerCore.pdb
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\Newtonsoft.Json.dll
+C:\projekty\PurpleMTServer1\ServerCore\bin\Debug\Newtonsoft.Json.xml
+C:\projekty\PurpleMTServer1\ServerCore\obj\Debug\ServerCore.csprojAssemblyReference.cache
